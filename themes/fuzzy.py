@@ -1,10 +1,13 @@
 class Color(DefaultColor):
-    USERNAME_FG = 16
-    USERNAME_BG = 25
+    TIME_FG = 15
+    TIME_BG = 17
+
+    USERNAME_FG = 15
+    USERNAME_BG = 19
     USERNAME_ROOT_BG = 1
 
-    HOSTNAME_FG = 16
-    HOSTNAME_BG = 32
+    HOSTNAME_FG = 15
+    HOSTNAME_BG = 21
 
     HOME_SPECIAL_DISPLAY = False
     PATH_FG = 7
