@@ -36,3 +36,4 @@ class Color(DefaultColor):
 
     VIRTUAL_ENV_BG = 15
     VIRTUAL_ENV_FG = 2
+
